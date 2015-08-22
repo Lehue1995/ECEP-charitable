@@ -1,0 +1,404 @@
+
+	
+.header{
+	position:relative;	
+	margin-left: auto;
+	margin-right: auto;
+	top:0px;
+	background:
+     linear-gradient(
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
+     );
+	width: 1000px;
+	height:130px;
+
+}
+	
+.header a img{
+	padding-left:30px;
+	padding-top:10px;
+	width:300px;
+	height:100px;
+}
+
+
+h1{
+
+	font-family:Arial;
+	margin-left: 60px;
+	padding-top:550px;
+	color:#ffffff;
+	
+	font-size: 28px;
+
+}
+
+.menu{ 
+	margin-left:490px;
+	margin-top:-60px;
+	width:500px;
+	height:30px;
+	}
+	
+.menu ul li{
+	list-style:none;
+	 float: left;
+	 padding-right:30px; 
+	 font-family:Arial;
+	}
+
+
+.menu ul li:hover  a{
+	color: blue;
+}
+
+ a{	
+	text-decoration: none;
+	 font-size:20px;
+	 color: #ffffff;
+	 font-weight:bold;
+	}
+	 
+.banner{
+	margin-left: auto;
+	margin-right: auto;
+	height:700px;
+	width:1000px;
+	margin-top:-200px;
+	background:
+     linear-gradient(
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0)
+     ), url(../picture/hoanghon.jpg);
+   background-size: cover;}
+   
+.banner img{
+	width:1000px;
+	height:700px;
+}
+
+
+ .content1 {
+	width:900px;
+	height:130px;
+	padding-top:50px;
+	padding-bottom:10px;
+	padding-left: 100px;
+	font-size:22px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #dcdcdc;
+	font-style:italic;
+}
+
+
+.content2{
+	width:1000px;
+	
+	font-size: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #ffffff;
+}
+
+.content3{
+	width: 1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.text{
+	font-family:sans-serif;
+	padding-left:250px;
+	padding-bottom:40px;
+	padding-top:40px;
+}
+
+ h2{ 
+	 color: white;
+	 font-size:24px;
+	font-family:Arial;
+	margin-left: 250px;
+	text-align:center;
+	margin-top:100px;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	
+	
+}
+
+h3{
+	color: white;
+	font-size:24px;
+	font-family:Arial;
+	margin-left: 155px;
+	text-align:center;
+	margin-top:100px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+
+h4{
+	color:#ffffff;
+	font-size:26px;
+	margin-left:720px;
+	margin-top: -10px;
+}
+
+.image1 {
+	float:left;
+	height:200px;
+	width:498px;
+	background:
+     linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+     ), url(../picture/image1.jpg);
+   background-size: cover;
+}
+
+.image2 {
+	float:left;
+	height:200px;
+	width:498px;
+	margin-left:4px;
+	background:
+  linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../picture/image2.jpg);
+  background-size: cover;
+	}
+	
+.image3 {
+	float:left;
+	height:200px;
+	width:380px;
+	margin-top:3px;
+	background:
+  linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../picture/image3.png);
+   background-size: cover;
+}
+	
+.image4 {
+	float:left;
+	height:200px;
+	width:330px;
+	margin-left:3px;
+	margin-top:3px;
+	
+	background:
+  linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../picture/image4.jpg);
+    background-size: cover;
+	}
+.image5 {
+	float:left;
+	height:200px;
+	width:280px;;
+	margin-left:3px;
+	margin-top:3px;
+	background:
+  linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../picture/image5.jpg);
+    background-size: cover;
+}
+
+.image6 {
+	float:left;
+	height:200px;
+	width:498px;
+	
+	margin-top:3px;
+	background:
+  linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../picture/image6.jpg);
+     background-size: cover;
+	
+}
+
+.image7 {
+	float:left;
+	height:200px;
+	width:498px;
+	margin-left:4px;
+	margin-top:3px;
+	background:
+  linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../picture/image7.jpg);
+    background-size: cover;
+}
+	
+.content4{
+	
+	width:1000px;
+	height:200px;
+	font-size:20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:200px;
+	background: white;
+}
+
+ .content4  i{
+	font-family:"Monotype Corsiva";
+
+	word-spacing: 9px;
+	line-height:3 ; 
+    font-size: 28px;
+    padding-left:200px;
+    margin-top:60px;
+    padding-top:30px;
+  }
+  
+  .content4  p{
+	font-family:"Monotype Corsiva";
+     font-size: 32px;
+    padding-left:600px;
+ 
+  }
+ .content5{
+	width:1000px;
+	height:350px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #b0c4de;
+}
+
+.content5 a img{
+	float:left;
+	width: 270px;
+	height:250px;
+	padding-left:50px;
+	padding-top:50px;
+}
+ 	
+.footer{
+	 width: 1000px;
+	 height:580px;
+	 margin-left: auto;
+	margin-right: auto;
+	 
+	background:
+  linear-gradient(
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.6)
+    ), url(../picture/hand.jpg);
+    background-size: cover;
+}
+ 
+.contactus h1{
+	font-size: 36px;
+	text-align:center;
+	color: white;
+	padding-top:15px;
+}
+.contactus b{
+	padding-left:310px;
+	color: white;
+	font-size: 22px;
+	
+}
+
+.input{
+	margin-top:20px;
+	font-size:18px;
+}	
+
+.input input{
+	background:
+  linear-gradient(
+      rgba(0, 0, 0, 0.1),
+      rgba(0, 0, 0, 0.1)
+    ),;
+	margin-left:320px;
+	width: 300px;
+	font-size:18px;
+	padding-left:100px;
+	padding-bottom:5px;
+	padding-top: 5px;
+	color: white;
+}
+	
+.input textarea{
+	margin-left:320px;
+	width: 300px;
+	font-size:18px;
+	padding-left:100px;
+	background:
+  linear-gradient(
+      rgba(0, 0, 0, 0.0),
+      rgba(0, 0, 0, 0.0)
+    ),;
+	color: white;
+}
+
+.button1 button{
+	
+	position: absolute;
+	width: 220px;
+	margin-left:680px;
+	margin-top:-60px;
+	border:4px;
+	padding-left:20px;
+	padding-top:10px;
+	padding-bottom:10px;
+	border-radius: 20px;
+	font-size:22px;
+	font-weight: bold;
+	background:
+  linear-gradient(
+      rgba(255, 255,255, 0.3),
+      rgba(255, 255,255, 0.3)
+    ),;
+	color: #ffffff;
+}
+	
+.button1  button:hover  {
+	color: yellow;	
+}
+
+.button2 button{
+	width: 170px;
+	margin-left:430px;
+	text-align:center;
+	padding-left:15px;
+	padding-top:10px;
+	padding-bottom:10px;
+	border-radius: 10px;
+	font-size:20px;
+	margin-top:-20px;
+	font-weight: bold;
+	background:
+  linear-gradient(
+      rgba(255, 255,255, 0.1),
+      rgba(255, 255,255, 0.1)
+    ),;
+	color: #ffffff;
+}
+
+.end {
+	width:1000px;
+	height:50px;
+	font-size:20px;
+	margin-left: auto;
+	margin-right: auto;
+	background: white;
+	margin-top: 20px;
+}
+
+
+	  
+
